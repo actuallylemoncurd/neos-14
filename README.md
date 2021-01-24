@@ -18,7 +18,7 @@ Restoring on Linux/OS X
 
 1. Connect your comma two (via a USB-C to USB-A cable) or EON (via a USB-mini-B to USB-A cable) to your computer
 2. Open a terminal
-3. Clone this repo `git clone https://github.com/commaai/eon-neos.git`, then cd into the cloned repo `cd eon-neos`
+3. Clone this repo `git clone https://github.com/actuallylemoncurd/neos-14`, then `chmod -R 777 neos-14/`, then cd into the cloned repo `cd neos-14`
 4. Run `./download.py`
 5. Put your device into fastboot mode by turning off your device, then holding volume down + power (comma two, EON Gold), or volume up + power (EON).
 6. Run `./flash.sh` DO NOT DISCONNECT THE DEVICE!
